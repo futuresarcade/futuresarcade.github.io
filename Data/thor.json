@@ -1,0 +1,18 @@
+{
+  "id": 3,
+  "name": "Thorvald Sanchez",
+  "username": "Thor",
+  "email": "futuresarcade@gmail.com",
+  "address": {
+    "street": "5000 Orduna Dr.",
+    "city": "Coral Gables",
+    "zipcode": "33146"
+  },
+  "phone": "305-282-8871",
+  "website": "futuresarcade.com",
+  "company": {
+    "name": "futuresarcade",
+    "catchPhrase": "We make your Future possible",
+    "bs": "Future is Us"
+  }
+}
